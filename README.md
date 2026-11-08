@@ -8,7 +8,7 @@
 <sub>NVIDIA driver profiles · weekly checklist · Italian translation — for Black Desert Online, crafted by <b>Judgmentz</b></sub></p>
 
 <a href="https://github.com/Judgmentz/BDO-Graphics-Switcher/releases/latest">
-  <img src="assets/info.svg" alt="Release v1.5.0 · Windows 10/11 · NVIDIA only · 491 KB" width="760">
+  <img src="assets/info.svg" alt="Release v1.5.1 · Windows 10/11 · NVIDIA only · 491 KB" width="760">
 </a>
 
 <br><br>
@@ -30,11 +30,12 @@
 <br>
 
 > [!TIP]
-> ### 🆕 What's new in v1.5.0
+> ### 🆕 What's new in v1.5
 > - 🇮🇹 **The app speaks Italian** — switch anytime with **EN / IT** in the footer, it cross-fades in place
 > - 🌍 **First-launch language picker** — a new animated screen asks your language the first time
 > - 🗂️ **Translation tab** (*Traduzione*) — the new home of the Italian game translation
 > - ✨ **Smarter tabs** — they fit their labels, with a gold indicator that slides and resizes
+> - 🏷️ **v1.5.1:** checklist sections keep their game names in English (*World Bosses, Training…*) — also in the Italian app
 >
 > <sub>Already on v1.3.0 or newer? The app offers the update by itself.</sub>
 
