@@ -1,23 +1,23 @@
 <div align="center">
 
-<img src="assets/icon.svg" alt="BDO Graphics Switcher icon" width="112">
+<img src="assets/icon.svg" alt="BDO Potato Lab icon" width="112">
 
-<h1>BDO Graphics Switcher</h1>
+<h1>🥔 BDO Potato Lab</h1>
 
 <p><b>One click. Every frame you can get.</b><br>
 <sub>NVIDIA driver profiles · weekly checklist · Italian translation — for Black Desert Online, crafted by <b>Judgmentz</b></sub></p>
 
-<a href="https://github.com/Judgmentz/BDO-Graphics-Switcher/releases/latest">
-  <img src="assets/info.svg" alt="Release v1.5.2 · Windows 10/11 · NVIDIA only · 490 KB" width="760">
+<a href="https://github.com/Judgmentz/BDO-Potato-Lab/releases/latest">
+  <img src="assets/info.svg" alt="Release v1.6.0 · Windows 10/11 · NVIDIA only · 490 KB" width="760">
 </a>
 
 <br><br>
 
-<a href="https://github.com/Judgmentz/BDO-Graphics-Switcher/releases/latest/download/BDO_Switcher.exe">
-  <img src="assets/download.svg" alt="Download BDO_Switcher.exe" width="440">
+<a href="https://github.com/Judgmentz/BDO-Potato-Lab/releases/latest/download/BDO_Potato_Lab.exe">
+  <img src="assets/download.svg" alt="Download BDO_Potato_Lab.exe" width="440">
 </a>
 
-<sub>One small <code>.exe</code> &nbsp;·&nbsp; nothing to install &nbsp;·&nbsp; <a href="https://github.com/Judgmentz/BDO-Graphics-Switcher/releases">all releases</a></sub>
+<sub>One small <code>.exe</code> &nbsp;·&nbsp; nothing to install &nbsp;·&nbsp; <a href="https://github.com/Judgmentz/BDO-Potato-Lab/releases">all releases</a></sub>
 
 <br><br>
 
@@ -30,7 +30,8 @@
 <br>
 
 > [!TIP]
-> ### 🆕 What's new in v1.5
+> ### 🆕 What's new in v1.6
+> - 🥔 **New name: BDO Potato Lab** — the app grew way beyond graphics, so it got a name to match (download: `BDO_Potato_Lab.exe`)
 > - 🇮🇹 **The app speaks Italian** — switch anytime with **EN / IT** in the footer, it cross-fades in place
 > - 🌍 **First-launch language picker** — a new animated screen asks your language the first time
 > - 🗂️ **Translation tab** (*Traduzione*) — the new home of the Italian game translation
@@ -188,7 +189,7 @@ The app checks the signature before installing anything — an unsigned or modif
 
 ## 🚀 Quick start
 
-1. **[Download `BDO_Switcher.exe`](https://github.com/Judgmentz/BDO-Graphics-Switcher/releases/latest/download/BDO_Switcher.exe)**
+1. **[Download `BDO_Potato_Lab.exe`](https://github.com/Judgmentz/BDO-Potato-Lab/releases/latest/download/BDO_Potato_Lab.exe)**
 2. Run it and accept the administrator prompt *(needed to save NVIDIA profiles)*
 3. Pick **Ultra Potato** or **Normal** — then (re)start Black Desert
 
