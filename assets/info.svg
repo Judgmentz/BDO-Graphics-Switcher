@@ -16,7 +16,7 @@
       <circle cx="34" cy="38" r="16" fill="#D9B97A" fill-opacity=".14"/>
       <rect x="28.5" y="32.5" width="11" height="11" rx="1.5" fill="url(#gold)" transform="rotate(45 34 38)"/>
       <text x="60" y="31" font-size="10" font-weight="700" letter-spacing="2" fill="#8A7A5A">RELEASE</text>
-      <text x="60" y="52" font-size="17" font-weight="800" fill="#F4E3BD">v1.5.1</text>
+      <text x="60" y="52" font-size="17" font-weight="800" fill="#F4E3BD">v1.5.2</text>
     </g>
 
     <!-- 2 · Windows -->
@@ -59,7 +59,7 @@
         <animateTransform attributeName="transform" type="translate" values="0 -1;0 1.5;0 -1" dur="1.4s" repeatCount="indefinite"/>
       </g>
       <text x="636" y="31" font-size="10" font-weight="700" letter-spacing="2" fill="#86709F">SIZE</text>
-      <text x="636" y="52" font-size="17" font-weight="800" fill="#FFFFFF">491 KB</text>
+      <text x="636" y="52" font-size="17" font-weight="800" fill="#FFFFFF">490 KB</text>
     </g>
 
     <!-- shimmer sweep -->
