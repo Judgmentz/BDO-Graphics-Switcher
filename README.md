@@ -5,7 +5,7 @@
 <h1>BDO Graphics Switcher</h1>
 
 <p><b>One click. Every frame you can get.</b><br>
-<sub>NVIDIA driver profiles + a weekly checklist for Black Desert Online — crafted by <b>Judgmentz</b></sub></p>
+<sub>NVIDIA driver profiles · weekly checklist · Italian translation — for Black Desert Online, crafted by <b>Judgmentz</b></sub></p>
 
 <a href="https://github.com/Judgmentz/BDO-Graphics-Switcher/releases/latest">
   <img src="assets/info.svg" alt="Release v1.4.1 · Windows 10/11 · NVIDIA only · 444 KB" width="760">
@@ -21,9 +21,22 @@
 
 <br><br>
 
-<img src="assets/preview.svg" alt="Graphics tab" width="420">&nbsp;&nbsp;<img src="assets/weekly.svg" alt="Weekly tab" width="420">
+<img src="assets/preview.svg" alt="Graphics tab" width="290">&nbsp;<img src="assets/weekly.svg" alt="Weekly tab" width="290">&nbsp;<img src="assets/italian.svg" alt="Italian tab" width="290">
+
+<sub><b>Graphics</b> &nbsp;·&nbsp; <b>Weekly</b> &nbsp;·&nbsp; <b>Italian</b></sub>
 
 </div>
+
+<br>
+
+> [!TIP]
+> ### 🆕 What's new in v1.4.1
+> - 🇮🇹 **Italian replaces English by default** — just keep the game language on *English*
+> - ⭐ **One source, always fresh:** the Judgmentz Edition updates itself every time you open the app
+> - 🔀 **Switch the replaced language anytime** — even with Italian already installed
+> - 🔐 **Signed build** — verified before it installs
+>
+> <sub>Coming from v1.3.0 or newer? The app will offer the update by itself.</sub>
 
 <br>
 
@@ -86,6 +99,20 @@ Animated intro and outro, smooth tab transitions, and a window that resizes to f
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🇮🇹 Plays in Italian
+One click installs the Italian translation — and it re-applies itself after every game patch.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Can't be faked
+Updates and translation files are signed. Anything unsigned or modified is refused.
+
+</td>
+</tr>
 </table>
 
 ## 🎮 Presets
@@ -123,12 +150,17 @@ The **Weekly** tab keeps track of everything that resets each week (EU), grouped
 
 ## 🇮🇹 Play in Italian
 
-The **Italian** tab installs a community Italian translation in one click — and keeps it working after every game patch.
+The **Italian** tab installs the **Judgmentz Edition** of the Italian translation in one click — and keeps it working after every game patch.
 
-- **Judgmentz Edition:** based on **[BDO-Italia](https://github.com/lele344/BDO-Italia) by lele344**, with Judgmentz's glossary and fixes — replaces English by default
+1. Close Black Desert and open the **Italian** tab
+2. Click **Install Italian**
+3. Launch the game with the language on **English** — that's it
+
+- **Replaces English by default** (or German, if you prefer to keep English untouched) — switch anytime
 - **Always complete:** lines added by newer game patches are filled in from your own game files, so nothing goes missing
-- **Your own touch:** a **Glossary** (e.g. keep gamer terms like *Black Spirit* in English) and a **Line editor** to fix individual lines — applied on top of the translation, on your PC
-- **Hands-off:** updates and re-applies automatically on launch · automatic backup · one-click **Restore original**
+- **Hands-off:** checks for a newer edition every launch and re-applies itself after game patches
+- **Safe:** automatic backup · one-click **Restore original** · every edition file is signature-checked
+- **Your own touch:** a **Glossary** (e.g. keep gamer terms like *Black Spirit* in English) and a **Line editor** — applied on top, on your PC
 
 > [!NOTE]
 > Base translation by **lele344**. Fan-made and unofficial, not affiliated with Pearl Abyss. Use at your own risk.
@@ -153,7 +185,7 @@ The app checks the signature before installing anything — an unsigned or modif
 |---|---|
 | **OS** | Windows 10 / 11 (64-bit) — .NET Framework 4.8 is built in |
 | **GPU** | NVIDIA GeForce with an up-to-date driver |
-| **AMD / Intel** | Graphics presets show *not supported* — the Weekly checklist still works |
+| **AMD / Intel** | Graphics presets show *not supported* — Weekly and Italian still work |
 
 <details>
 <summary><b>🔧 How it works</b></summary>
