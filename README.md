@@ -8,20 +8,20 @@
 <sub>NVIDIA driver profiles · weekly checklist · Italian translation — for Black Desert Online, crafted by <b>Judgmentz</b></sub></p>
 
 <a href="https://github.com/Judgmentz/BDO-Potato-Lab/releases/latest">
-  <img src="assets/info.svg" alt="Release v1.7.0 · Windows 10/11 · NVIDIA only · 490 KB" width="760">
+  <img src="assets/info.svg?v=170" alt="Release v1.7.0 · Windows 10/11 · NVIDIA only · 490 KB" width="760">
 </a>
 
 <br><br>
 
 <a href="https://github.com/Judgmentz/BDO-Potato-Lab/releases/latest/download/BDO_Potato_Lab.exe">
-  <img src="assets/download.svg" alt="Download BDO_Potato_Lab.exe" width="440">
+  <img src="assets/download.svg?v=170" alt="Download BDO_Potato_Lab.exe" width="440">
 </a>
 
 <sub>One small <code>.exe</code> &nbsp;·&nbsp; nothing to install &nbsp;·&nbsp; <a href="https://github.com/Judgmentz/BDO-Potato-Lab/releases">all releases</a></sub>
 
 <br><br>
 
-<img src="assets/preview.svg" alt="Graphics tab" width="290">&nbsp;<img src="assets/weekly.svg" alt="Weekly tab" width="290">&nbsp;<img src="assets/italian.svg" alt="Translation tab" width="290">
+<img src="assets/preview.svg?v=170" alt="Graphics tab" width="290">&nbsp;<img src="assets/weekly.svg" alt="Weekly tab" width="290">&nbsp;<img src="assets/italian.svg" alt="Translation tab" width="290">
 
 <sub><b>Graphics</b> &nbsp;·&nbsp; <b>Weekly</b> &nbsp;·&nbsp; <b>Translation</b></sub>
 
