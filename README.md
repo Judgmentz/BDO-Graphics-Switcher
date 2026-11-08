@@ -8,7 +8,7 @@
 <sub>NVIDIA driver profiles · weekly checklist · Italian translation — for Black Desert Online, crafted by <b>Judgmentz</b></sub></p>
 
 <a href="https://github.com/Judgmentz/BDO-Potato-Lab/releases/latest">
-  <img src="assets/info.svg" alt="Release v1.6.0 · Windows 10/11 · NVIDIA only · 490 KB" width="760">
+  <img src="assets/info.svg" alt="Release v1.7.0 · Windows 10/11 · NVIDIA only · 490 KB" width="760">
 </a>
 
 <br><br>
@@ -30,14 +30,11 @@
 <br>
 
 > [!TIP]
-> ### 🆕 What's new in v1.6
-> - 🥔 **New name: BDO Potato Lab** — the app grew way beyond graphics, so it got a name to match (download: `BDO_Potato_Lab.exe`)
-> - 🇮🇹 **The app speaks Italian** — switch anytime with **EN / IT** in the footer, it cross-fades in place
-> - 🌍 **First-launch language picker** — a new animated screen asks your language the first time
-> - 🗂️ **Translation tab** (*Traduzione*) — the new home of the Italian game translation
-> - ✨ **Smarter tabs** — they fit their labels, with a gold indicator that slides and resizes
-> - 🏷️ **v1.5.1:** checklist sections keep their game names in English (*World Bosses, Training…*) — also in the Italian app
-> - 🧩 **v1.5.2:** cleaner layout in Italian, Italian always replaces English, and the line editor shows the final text
+> ### 🆕 What's new in v1.7
+> - 🖤 **New look: monochrome liquid glass** — graphite and white, frosted glass panels, iOS-style springs
+> - 💧 **Floating tab bar** — the glass droplet stretches across the tabs and snaps onto the one you pick
+> - 📋 **Presets as a grouped list** — a clean row each, with a check that pops in on the active one
+> - 💬 **Redesigned tips popup** — the same glass, a white button, and it scrolls instead of getting cut off
 >
 > <sub>Already on v1.3.0 or newer? The app offers the update by itself.</sub>
 
@@ -70,7 +67,7 @@ Talks straight to the NVIDIA driver (NvAPI). No bundled tools, no temp files, ne
 <td width="50%" valign="top">
 
 ### 🎬 Feels premium
-Animated dark UI, live preset meters and in-game tips after every switch.
+Monochrome liquid-glass UI with iOS-style motion, and in-game tips after every switch.
 
 </td>
 </tr>
@@ -136,8 +133,8 @@ Unexpected errors are logged instead of closing the app, and every update is ver
 
 | | Preset | Built for | What changes |
 |:-:|---|---|---|
-| 🟣 | **Ultra Potato** | Node Wars · Sieges · crowded hubs | V-Sync off · 1 pre-rendered frame · AA & anisotropic off · *High performance* texture filtering · aggressive LOD bias · GPU locked to *Prefer maximum performance* |
-| 🟢 | **Normal** | Everything else | Back to NVIDIA driver defaults — full quality |
+| ⚡ | **Ultra Potato** | Node Wars · Sieges · crowded hubs | V-Sync off · 1 pre-rendered frame · AA & anisotropic off · *High performance* texture filtering · aggressive LOD bias · GPU locked to *Prefer maximum performance* |
+| ⭐ | **Normal** | Everything else | Back to NVIDIA driver defaults — full quality |
 
 > [!TIP]
 > **Node Wars & Sieges** — pair Ultra Potato with BDO's *Lowest / Optimal* graphics and turn **other players' skill effects off**. Massive fights stay smooth.
