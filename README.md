@@ -8,7 +8,7 @@
 <sub>NVIDIA driver profiles · weekly checklist · Italian translation — for Black Desert Online, crafted by <b>Judgmentz</b></sub></p>
 
 <a href="https://github.com/Judgmentz/BDO-Graphics-Switcher/releases/latest">
-  <img src="assets/info.svg" alt="Release v1.4.1 · Windows 10/11 · NVIDIA only · 444 KB" width="760">
+  <img src="assets/info.svg" alt="Release v1.5.0 · Windows 10/11 · NVIDIA only · 491 KB" width="760">
 </a>
 
 <br><br>
@@ -21,22 +21,22 @@
 
 <br><br>
 
-<img src="assets/preview.svg" alt="Graphics tab" width="290">&nbsp;<img src="assets/weekly.svg" alt="Weekly tab" width="290">&nbsp;<img src="assets/italian.svg" alt="Italian tab" width="290">
+<img src="assets/preview.svg" alt="Graphics tab" width="290">&nbsp;<img src="assets/weekly.svg" alt="Weekly tab" width="290">&nbsp;<img src="assets/italian.svg" alt="Translation tab" width="290">
 
-<sub><b>Graphics</b> &nbsp;·&nbsp; <b>Weekly</b> &nbsp;·&nbsp; <b>Italian</b></sub>
+<sub><b>Graphics</b> &nbsp;·&nbsp; <b>Weekly</b> &nbsp;·&nbsp; <b>Translation</b></sub>
 
 </div>
 
 <br>
 
 > [!TIP]
-> ### 🆕 What's new in v1.4.1
-> - 🇮🇹 **Italian replaces English by default** — just keep the game language on *English*
-> - ⭐ **One source, always fresh:** the Judgmentz Edition updates itself every time you open the app
-> - 🔀 **Switch the replaced language anytime** — even with Italian already installed
-> - 🔐 **Signed build** — verified before it installs
+> ### 🆕 What's new in v1.5.0
+> - 🇮🇹 **The app speaks Italian** — switch anytime with **EN / IT** in the footer, it cross-fades in place
+> - 🌍 **First-launch language picker** — a new animated screen asks your language the first time
+> - 🗂️ **Translation tab** (*Traduzione*) — the new home of the Italian game translation
+> - ✨ **Smarter tabs** — they fit their labels, with a gold indicator that slides and resizes
 >
-> <sub>Coming from v1.3.0 or newer? The app will offer the update by itself.</sub>
+> <sub>Already on v1.3.0 or newer? The app offers the update by itself.</sub>
 
 <br>
 
@@ -113,6 +113,20 @@ Updates and translation files are signed. Anything unsigned or modified is refus
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 Speaks your language
+The whole app in English or Italian — pick it on first launch, switch anytime from the footer.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧯 Built to last
+Unexpected errors are logged instead of closing the app, and every update is verified first.
+
+</td>
+</tr>
 </table>
 
 ## 🎮 Presets
@@ -150,9 +164,9 @@ The **Weekly** tab keeps track of everything that resets each week (EU), grouped
 
 ## 🇮🇹 Play in Italian
 
-The **Italian** tab installs the **Judgmentz Edition** of the Italian translation in one click — and keeps it working after every game patch.
+The **Translation** tab installs the **Judgmentz Edition** of the Italian translation in one click — and keeps it working after every game patch.
 
-1. Close Black Desert and open the **Italian** tab
+1. Close Black Desert and open the **Translation** tab
 2. Click **Install Italian**
 3. Launch the game with the language on **English** — that's it
 
