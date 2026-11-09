@@ -37,7 +37,7 @@
 > - 📋 **Presets as a grouped list** — a clean row each, with a check that pops in on the active one
 > - 💬 **Redesigned tips popup** — the same glass, a white button, and it scrolls instead of getting cut off
 >
-> <sub>Already on v1.3.0 or newer? The app offers the update by itself.</sub>
+> <sub>Already on v1.6.0 or newer? The app offers the update by itself.</sub>
 
 <br>
 
